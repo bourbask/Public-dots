@@ -67,8 +67,6 @@ in {
     systemPackages = with pkgs; [
       inputs.rose-pine-hyprcursor.packages.${pkgs.system}.default
       themes.abstractguts-themes
-      custom_pkgs.scooter
-      custom_pkgs.talecast
       catppuccin-cursors.mochaMauve
       tlrc
       clipse
