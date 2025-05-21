@@ -40,11 +40,11 @@
     };
     #  Export Variables
     stateVersion = "23.11"; # TODO: change stateVersion
-    username = "USER_NAME"; # TODO: change username
+    username = "bourbask"; # TODO: change username
     desktop = "yoitsu"; # TODO: Change Desktop name
     laptop = "shirohebi"; # TODO: change Laptop name
     system = "x86_64-linux"; # TODO: Rarely, change system architecture
-    email = "THIS_IS_AN_EMAIL"; # TODO: Change your email for Git and such
+    email = "bourbasquet.k@etik.com"; # TODO: Change your email for Git and such
     discord = "not this time"; # TODO: Change/ remove
   in {
     #  NixOS configuration entrypoint
